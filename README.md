@@ -6,4 +6,3 @@ A web application that aggregates events from multiple sources (Meetup, Facebook
 
 - **Multi-Source Aggregation**: Collect events from Meetup, Facebook Events, and local venues
 - **Smart Filtering**: Filter events by category, date, source, and price
-- **Search Functionality**: Find events by keywords, titles, or locations
